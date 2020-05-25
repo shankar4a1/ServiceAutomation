@@ -1,0 +1,1 @@
+{"Origin":"https:\/\/charts.londonstockexchange.com","requestedDataSetType":"ohlc","sampleTimeFrame":"3m","description":"Check Price for","chartPriceType":"price","Host":"charts.londonstockexchange.com","EndPoint":"\/services\/ChartWService.asmx\/GetPrices","content-Type":"application\/json; charset=UTF-8","ExpectedStatus":"200","key":"III.LD","sampleTime":"1d"}
